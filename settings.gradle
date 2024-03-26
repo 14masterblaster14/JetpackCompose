@@ -13,6 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MyApp"
-include ':app'
-include ':recyclerview'
-include ':composestatedemo'
+include ':c1app'
+include ':c2recyclerview'
+include ':c3composestatedemo'
+include ':c4sideeffects'
